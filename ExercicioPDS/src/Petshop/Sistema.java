@@ -25,5 +25,6 @@ public class Sistema {
     public void encerrarSistema() {
         System.out.println("Sistema encerrado.");
     }
-
+//comentario de teste commit
 }
+
