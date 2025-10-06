@@ -1,3 +1,6 @@
+Dupla: ELLEN IRIS ARAÚJO DA SILVA e MEL ELÓI FRANÇA RIBEIRO 
+Matrícula: 20221064010021 e 20221064010012
+
 Documentação do Sistema de Animais de Estimação (Pet System)
 1. Introdução
 O projeto 'Petshop’ simula um sistema básico de gerenciamento de animais de estimação, seus donos e interações com uma clínica veterinária. O objetivo é demonstrar conceitos fundamentais da Programação Orientada a Objetos (POO), como encapsulamento, composição e interação entre classes.
